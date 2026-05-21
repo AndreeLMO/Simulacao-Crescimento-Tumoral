@@ -41,25 +41,25 @@ As simulações ilustram a evolução espacial e temporal do tumor, a distribui�
 
 ### Estágio Inicial (Frame 40)
 
-![Crescimento Tumoral - Frame 40](figures/fig-000.png)
+![Crescimento Tumoral - Frame 40](fig-000.png)
 
 Neste estágio inicial, o tumor começa a crescer, e a população de células tumorais é predominante. A distribuição de oxigênio mostra uma leve diminuição no centro do tumor.
 
 ### Estágio Intermediário (Frame 80)
 
-![Crescimento Tumoral - Frame 80](figures/fig-001.png)
+![Crescimento Tumoral - Frame 80](fig-001.png)
 
 O tumor continua a crescer, e já é possível observar o surgimento de células agressivas. A hipóxia no centro do tumor se torna mais evidente, e a população de células tumorais e agressivas aumenta.
 
 ### Estágio Avançado (Frame 120)
 
-![Crescimento Tumoral - Frame 120](figures/fig-002.png)
+![Crescimento Tumoral - Frame 120](fig-002.png)
 
 Neste ponto, o tumor está bem estabelecido, com uma proporção significativa de células agressivas. A necrose começa a aparecer no centro do tumor devido à hipóxia severa. A evolução das populações mostra um crescimento acelerado.
 
 ### Estágio Final com Tratamento (Frame 180)
 
-![Crescimento Tumoral - Frame 180](figures/fig-003.png)
+![Crescimento Tumoral - Frame 180](fig-003.png)
 
 Após a aplicação de tratamentos (quimioterapia e/ou radioterapia), observa-se uma redução na população de células tumorais e agressivas, e um aumento significativo na necrose. A distribuição de oxigênio mostra uma área hipóxica mais pronunciada, mas também a influência dos vasos sanguíneos.
 
